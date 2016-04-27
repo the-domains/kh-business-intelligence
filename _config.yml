@@ -1,0 +1,28 @@
+name: KH Business Intelligence
+favicon: null
+layout_spectrum: 0.7972346693277359
+typography_spectrum: 0.20889977808110416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5569286297541112
+  lightness: 0.240025115897879
+  saturation: 0.7273782414849848
+  rhythmicContrast: 0.5690604308620095
+purpose: []
